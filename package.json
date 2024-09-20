@@ -1,0 +1,28 @@
+{
+  "name": "dt-live-coding-task",
+  "version": "1.0.0",
+  "description": "Live coding task for React position",
+  "keywords": ["typescript", "react"],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "11.3.0",
+    "@mui/material": "5.0.0-rc.0",
+    "@types/react": "^16.8.6 || ^17.0.0",
+    "@types/react-dom": "17.0.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-is": ">= 16.8.0",
+    "react-scripts": "4.0.3",
+    "styled-components": "5.3.1",
+    "typescript": "^3.2.1 || ^4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

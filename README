@@ -1,0 +1,21 @@
+**Task Description:**
+1. Search tracks by title in Tracklist
+    - Implement search handler
+    - All tracks should be shown if the input is empty
+2. Add track to Playlist by action button press
+    - Implement add handler
+    - User should not be allowed to add track that already exist in Playlist
+3. Remove track from Playlist by action button press
+    - Implement remove handler
+4. Select tracks in Tracklist
+    - Implement select track handler
+    - Tracks must be selected only in the Tracklist
+5. Select tracks in Playlist
+    - Implement select track handler
+    - Tracks must be selected only in the Playlist
+6. Add selected tracks to Playlist by Add Tracks button press
+    - Implement bulk add handler
+    - Tracks in Tracklist should be deselected
+    - If a user selects a track that already is in the Playlist, this track must not be added again or doubled.
+7. Remove selected tracks from Playlist by Remove Tracks button press
+    - Implement bulk remove handler
